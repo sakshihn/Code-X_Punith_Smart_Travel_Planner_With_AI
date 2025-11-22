@@ -1,5 +1,5 @@
-# Travel_Planner_webpage# 🌍 Smart Travel Planner  
-A modern web application designed to simplify and enhance travel planning through destination exploration, smart itinerary creation, route mapping, and booking workflow—all wrapped in a clean, dark-themed interface.
+🌍 Smart Travel Planner  
+A modern web application designed to simplify and enhance travel planning through destination exploration, smart itinerary creation, route mapping, and booking workflow—all wrapped in a clean, light-themed interface.
 
 ---
 
@@ -33,13 +33,8 @@ SmartTravelPlanner/
 │── pom.xml
 │── README.md
 │── REQUIREMENTS.md
-│── SETUP_GUIDE.md
 │── ARCHITECTURE.md
-│── CONTRIBUTING.md
 │── LICENSE.md
-
-yaml
-Copy code
 
 ---
 
