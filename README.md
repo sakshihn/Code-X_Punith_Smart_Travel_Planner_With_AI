@@ -1,4 +1,4 @@
-## 🌍 SMART TRAVEL ITINERARY PLANNER  
+9## 🌍 SMART TRAVEL ITINERARY PLANNER  
 A modern web application designed to simplify and enhance travel planning through destination exploration, smart itinerary creation, route mapping, and booking workflow—all wrapped in a clean, light-themed interface.
 
 ---
@@ -57,13 +57,7 @@ Open in browser:
 http://localhost:5173/
 
 npm
-Copy code
-
----
-
-## 🤝 Contributing  
-Pull requests are welcome!  
-See the **CONTRIBUTING.md** file for full guidelines.
+Copy code 
 
 ---
 
