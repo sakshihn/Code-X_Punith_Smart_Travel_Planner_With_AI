@@ -66,15 +66,6 @@ Copy code
 
 ---
 
-## 📄 Documentation  
-- [REQUIREMENTS.md](REQUIREMENTS.md)  
-- [SETUP GUIDE](SETUP_GUIDE.md)  
-- [ARCHITECTURE](ARCHITECTURE.md)  
-- [CONTRIBUTING](CONTRIBUTING.md)  
-- [LICENSE](LICENSE.md)  
-
----
-
 ## 🤝 Contributing  
 Pull requests are welcome!  
 See the **CONTRIBUTING.md** file for full guidelines.
