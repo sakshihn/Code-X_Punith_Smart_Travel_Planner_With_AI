@@ -60,7 +60,7 @@ External APIs (Google Maps)
 ↓
 View (HTML Templates)
 
-yaml
+npm
 Copy code
 
 ---
