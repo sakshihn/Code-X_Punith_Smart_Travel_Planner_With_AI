@@ -1,0 +1,17 @@
+Backend
+Java JDK 11+
+Spring Boot 3.x
+Maven 3.8+
+
+Frontend
+HTML5
+CSS3
+Bootstrap 4/5
+JavaScript
+Thymeleaf templates (if used)
+
+Development Tools
+IntelliJ IDEA / Eclipse / VS Code
+Git & GitHub
+Postman (optional for API testing)
+Web Browser: Chrome (recommended), Edge, Firefox
