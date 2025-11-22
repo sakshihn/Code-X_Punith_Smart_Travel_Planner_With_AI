@@ -1,4 +1,4 @@
-🌍 Smart Travel Planner  
+## 🌍 SMART TRAVEL ITINERARY PLANNER  
 A modern web application designed to simplify and enhance travel planning through destination exploration, smart itinerary creation, route mapping, and booking workflow—all wrapped in a clean, light-themed interface.
 
 ---
